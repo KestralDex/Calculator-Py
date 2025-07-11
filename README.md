@@ -1,2 +1,3 @@
-# Calculator-Py
-Making a basic terminal calculator using python 
+# Python Projects
+
+These are the projects i did along learning python
